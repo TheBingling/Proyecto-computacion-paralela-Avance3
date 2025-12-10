@@ -1,0 +1,1 @@
+Enlace para descargar dataset de datos sinteticos >1GB: https://www.kaggle.com/datasets/swainproject/synthetic-product-records-10k-to-10m-records?select=product_10000000.csv
